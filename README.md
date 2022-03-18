@@ -1,21 +1,21 @@
-# esercitazioni
+## esercitazioni
 IFTS IFOA 2022
 
 Prima esercitazione
 
-## FLOW GIT HUB
+### FLOW GIT HUB
 ![alt text](img/git_flow.jpg "Optional title")
 
-## Datamining-01_intro
+### Datamining-01_intro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaoloGrande/esercitazioni/blob/main/Datamining-01_intro.ipynb)
 
-## Markdown_Colab
+### Markdown_Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaoloGrande/esercitazioni/blob/main/Markdown_Colab.ipynb)
 
-## Esercitazione02
+### Esercitazione02
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaoloGrande/esercitazioni/blob/main/Esercitazione02/011_intro.ipynb)
 
-## Esercitazione03
+### Esercitazione03
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PaoloGrande/esercitazioni/blob/main/Esercitazione03)
 
 ### Esercitazione03 - Markdown
